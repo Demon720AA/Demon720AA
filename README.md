@@ -1,4 +1,5 @@
 # **Hi, My name is _Supanut Arun_**
+![MyName](/Source/My_name_is.png)
 ## **Education**
 2017-2022 IMT : SATIT PRASARNMIT DEMONSTRATION SCHOOL <br />
 2022-NOW IT : KING MONGKUT'S INSTITUTE OF TECHNOLOGY LADKRABANG
